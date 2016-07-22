@@ -1,2 +1,4 @@
-# sample
-Creating for sample purpose
+# Sample
+
+Hi Everyone,
+This project was created for testing purpose.
